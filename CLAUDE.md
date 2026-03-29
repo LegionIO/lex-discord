@@ -10,7 +10,7 @@ Legion Extension that connects LegionIO to Discord via the Discord REST API v10.
 
 **GitHub**: https://github.com/LegionIO/lex-discord
 **License**: MIT
-**Version**: 0.1.0
+**Version**: 0.1.2
 
 ## Architecture
 
